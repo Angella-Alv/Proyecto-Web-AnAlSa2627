@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    color: navy;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
